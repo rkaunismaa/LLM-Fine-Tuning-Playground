@@ -4,6 +4,14 @@ This repo will contain various examples of fine tuning large language models.
 
 *** mamba activate ftllm ***
 
+## Sunday, May 12, 2024
+
+Noteable links:
+
+* [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
+* [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](https://huggingface.co/blog/trl-peft)
+* [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
+
 ## Saturday, May 11, 2024
 
 Starting to run through the notebook 'Causal_models_like_Gemma_2B_finetuning_on_SamSum.ipynb', and looks like I have more stuff to install ...
