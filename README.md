@@ -10,6 +10,7 @@ Starting to run through the notebook 'Causal_models_like_Gemma_2B_finetuning_on_
 
  1) mamba install conda-forge::huggingface_hub
  2) mamba install conda-forge::ipywidgets
- 3) 
+ 3) pip install evaluate
+ 4) pip install rouge-score
 
 
