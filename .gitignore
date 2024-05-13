@@ -6,3 +6,5 @@ OrpoLlama-3-8B/
 
 tmp/
 tmp-profile/
+
+lora_model/

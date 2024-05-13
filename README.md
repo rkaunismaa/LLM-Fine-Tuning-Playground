@@ -17,6 +17,16 @@ Viewing the first 20 seconds of [LLAMA-3 🦙: EASIET WAY To FINE-TUNE ON YOUR D
 
 The Youtube channel [Prompt Engineering](https://www.youtube.com/@engineerprompt/featured) is excellent! Gonna habituate looking at this channel! 
 
+*** mamba activate unsloth_env ***
+
+Checking out [unsloth](https://github.com/unslothai/unsloth). Create the new conda environment 'unsloth_env' for running the notebook 'Alpaca_+_Llama_3_8b_full_example.ipynb' linked from the page [Finetune Llama 3 - 2x faster + 6x longer context + 68% less VRAM](https://unsloth.ai/blog/llama3)
+
+[Alpaca + Llama-3 8b full example.ipynb](https://colab.research.google.com/drive/135ced7oHytdxu3N2DNe1Z0kqjyYIkDXp?usp=sharing)
+
+Damn! My preliminary dive into unsloth is revealing some fantastic features of this package!
+
+I was able to run 'Alpaca_+_Llama_3_8b_full_example.ipynb' in unsloth_dev with no problems!
+
 ## Sunday, May 12, 2024
 
 Noteable links:
