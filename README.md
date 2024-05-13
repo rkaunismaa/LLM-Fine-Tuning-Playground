@@ -13,6 +13,10 @@ Working through [peft_finetuning.ipynb](https://github.com/meta-llama/llama-reci
 
 Trying to understand why running peft_finetuning.ipynb the first time training took 35 minutes, then running it again with profileing enabled from the copied notebook peft_finetuning_2.ipynb it took about a minute and a half, then re-running peft_finetuning_2.ipynb again, but with a different target folder of tmp-profile it again took about a minute and a half ... is this because of something to do with wandb?? I really don't get it ... 
 
+Viewing the first 20 seconds of [LLAMA-3 🦙: EASIET WAY To FINE-TUNE ON YOUR DATA](https://www.youtube.com/watch?v=aQmoog_s8HE) shows me right away there are multiple open-source libraries available to facilitate fine tuning of local large language models. Sooo much energy is being directed at this task and it is rapidly shifting, so keep on this!
+
+The Youtube channel [Prompt Engineering](https://www.youtube.com/@engineerprompt/featured) is excellent! Gonna habituate looking at this channel! 
+
 ## Sunday, May 12, 2024
 
 Noteable links:
