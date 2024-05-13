@@ -27,6 +27,11 @@ Damn! My preliminary dive into unsloth is revealing some fantastic features of t
 
 I was able to run 'Alpaca_+_Llama_3_8b_full_example.ipynb' in unsloth_dev with no problems!
 
+Now will create a second conda environment almost identical to unsloth_env bit with a slightly different setup, supposedly catered to a 4090, and will name it unsloth_env2 ... I know ... really creative, right!?
+
+* [LLAMA-3 🦙: EASIET WAY To FINE-TUNE ON YOUR DATA 🙌](https://www.youtube.com/watch?v=aQmoog_s8HE)
+* https://colab.research.google.com/drive/1mPw6P52cERr93w3CMBiJjocdTnyPiKTX#scrollTo=2eSvM9zX_2d3
+
 ## Sunday, May 12, 2024
 
 Noteable links:
