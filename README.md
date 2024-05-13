@@ -11,6 +11,8 @@ Working through [peft_finetuning.ipynb](https://github.com/meta-llama/llama-reci
 5) mamba install conda-forge::sentencepiece
 6) pip install llama-recipes (notice the mis-spelling of recipes)
 
+Trying to understand why running peft_finetuning.ipynb the first time training took 35 minutes, then running it again with profileing enabled from the copied notebook peft_finetuning_2.ipynb it took about a minute and a half, then re-running peft_finetuning_2.ipynb again, but with a different target folder of tmp-profile it again took about a minute and a half ... is this because of something to do with wandb?? I really don't get it ... 
+
 ## Sunday, May 12, 2024
 
 Noteable links:
