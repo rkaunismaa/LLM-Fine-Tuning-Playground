@@ -4,6 +4,13 @@ This repo will contain various examples of fine tuning large language models.
 
 *** mamba activate ftllm ***
 
+## Monday, May 13, 2024
+
+Working through [peft_finetuning.ipynb](https://github.com/meta-llama/llama-recipes/blob/main/recipes/finetuning/huggingface_trainer/peft_finetuning.ipynb)
+
+5) mamba install conda-forge::sentencepiece
+6) pip install llama-recipes (notice the mis-spelling of recipes)
+
 ## Sunday, May 12, 2024
 
 Noteable links:

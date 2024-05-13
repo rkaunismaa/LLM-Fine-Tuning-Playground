@@ -3,3 +3,5 @@ gemma2b-samsum_4bitqlora/
 wandb/
 
 OrpoLlama-3-8B/
+
+tmp/
