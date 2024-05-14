@@ -4,6 +4,10 @@ This repo will contain various examples of fine tuning large language models.
 
 *** mamba activate ftllm ***
 
+## Tuesday, May 14, 2024
+
+Another re-run of Alpaca_+_Llama_3_8b_full_example _(Prompt_Engineering).ipynb with higher settngs.
+
 ## Monday, May 13, 2024
 
 Working through [peft_finetuning.ipynb](https://github.com/meta-llama/llama-recipes/blob/main/recipes/finetuning/huggingface_trainer/peft_finetuning.ipynb)
@@ -31,6 +35,8 @@ Now will create a second conda environment almost identical to unsloth_env bit w
 
 * [LLAMA-3 🦙: EASIET WAY To FINE-TUNE ON YOUR DATA 🙌](https://www.youtube.com/watch?v=aQmoog_s8HE)
 * https://colab.research.google.com/drive/1mPw6P52cERr93w3CMBiJjocdTnyPiKTX#scrollTo=2eSvM9zX_2d3
+
+Hmm so ran this other notebook, and I really fail to see how this is any different from the first run ... meh. 
 
 ## Sunday, May 12, 2024
 
