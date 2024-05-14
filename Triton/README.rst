@@ -1,6 +1,11 @@
 Tuesday, May 14, 2024
 
+All the python files in this folder were taken from the Triton repository found at 
+
 https://github.com/triton-lang/triton/tree/main/python/tutorials
+
+tutorials_python.zip was downloaded from [Triton Tutorials](https://triton-lang.org/main/getting-started/tutorials/index.html) home page. 
+The code from here IS DIFFERENT than the code in the current repository! I have unzipped these files into the 'tutorials_pythons' folder.
 
 
 Tutorials

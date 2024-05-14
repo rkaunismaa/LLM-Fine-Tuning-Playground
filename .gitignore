@@ -15,3 +15,5 @@ outputs2/
 layer-norm-backward.csv
 layer-norm-backward.png
 results.html
+
+Triton/tutorials_python.zip
