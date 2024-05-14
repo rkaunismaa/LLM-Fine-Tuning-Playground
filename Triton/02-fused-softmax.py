@@ -31,6 +31,11 @@ import torch
 
 import triton
 import triton.language as tl
+
+import sys
+sys.path.append('/home/rob/miniforge3/envs/unsloth_env2/lib/python3.10/site-packages/triton')
+
+
 from triton.runtime import driver
 import triton.compiler as tc
 import os
@@ -116,16 +121,16 @@ os.environ["CUDA_VISIBLE_DEVICES"]="0"
 
 device = torch.cuda.current_device()
 properties = driver.active.utils.get_device_properties(device)
-# NUM_SM = properties["multiprocessor_count"]
-# NUM_REGS = properties["max_num_regs"]
-# SIZE_SMEM = properties["max_shared_mem"]
-# WARP_SIZE = properties["warpSize"]
-
-# properties = driver.active.utils.get_device_properties(device)
-NUM_SM = 128
+NUM_SM = properties["multiprocessor_count"]
 NUM_REGS = properties["max_num_regs"]
 SIZE_SMEM = properties["max_shared_mem"]
-WARP_SIZE = 32
+WARP_SIZE = properties["warpSize"]
+
+# properties = driver.active.utils.get_device_properties(device)
+# NUM_SM = 128
+# NUM_REGS = properties["max_num_regs"]
+# SIZE_SMEM = properties["max_shared_mem"]
+# WARP_SIZE = 32
 
 
 
