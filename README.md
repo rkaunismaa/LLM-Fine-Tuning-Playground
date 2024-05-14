@@ -8,6 +8,18 @@ This repo will contain various examples of fine tuning large language models.
 
 Another re-run of Alpaca_+_Llama_3_8b_full_example _(Prompt_Engineering).ipynb with higher settngs.
 
+And gonna take a small segway into [Triton](https://triton-lang.org/main/index.html) since this stuff is in the unsloth_env2 environment. The code will go into the 'Triton' folder. Looking at this stuff, the impulse is to get back to CUDA ... 
+
+*** mamba activate unsloth_env2 ***
+
+Attempting to run Triton/01-vector-add.py
+
+Really!? No matplotlib in the unsloth_env2 environment?!! ...
+
+* mamba install conda-forge::matplotlib
+* mamba install conda-forge::pytest
+* mamba install conda-forge::tabulate
+
 ## Monday, May 13, 2024
 
 Working through [peft_finetuning.ipynb](https://github.com/meta-llama/llama-recipes/blob/main/recipes/finetuning/huggingface_trainer/peft_finetuning.ipynb)

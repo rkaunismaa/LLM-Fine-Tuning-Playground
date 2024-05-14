@@ -11,3 +11,7 @@ lora_model/
 lora_model2/
 
 outputs2/
+
+layer-norm-backward.csv
+layer-norm-backward.png
+results.html
