@@ -4,6 +4,10 @@ This repo will contain various examples of fine tuning large language models.
 
 *** mamba activate ftllm ***
 
+## Friday, June 7, 2024
+
+[Training and Finetuning Embedding Models with Sentence Transformers v3](https://huggingface.co/blog/train-sentence-transformers)
+
 ## Tuesday, May 14, 2024
 
 Another re-run of Alpaca_+_Llama_3_8b_full_example _(Prompt_Engineering).ipynb with higher settngs.
