@@ -4,6 +4,12 @@ This repo will contain various examples of fine tuning large language models.
 
 *** mamba activate ftllm ***
 
+## Saturday, June 8, 2024
+
+Working through the document from below ...  
+
+* mamba install conda-forge::sentence-transformers
+
 ## Friday, June 7, 2024
 
 [Training and Finetuning Embedding Models with Sentence Transformers v3](https://huggingface.co/blog/train-sentence-transformers)
