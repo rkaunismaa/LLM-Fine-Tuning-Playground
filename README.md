@@ -4,6 +4,10 @@ This repo will contain various examples of fine tuning large language models.
 
 *** mamba activate ftllm ***
 
+## Wednesday, August 7, 2024
+
+[Creating and Uploading a Dataset with Unsloth: An Adventure in Wonderland](https://huggingface.co/blog/dimentox/unsloth-mistral-training)
+
 ## Saturday, June 8, 2024
 
 Working through the document from below ...  
